@@ -1,0 +1,22 @@
+/* font-family Abel */
+@font-face {
+    font-family: Abel;
+    src: url("../fonts/Abel/Abel-Regular.ttf");
+}
+
+/* font-family Alice*/
+@font-face {
+    font-family: Alice;
+    src: url("../fonts/Alice/Alice-Regular.ttf");
+}
+/* font-family Amiri*/
+@font-face {
+    font-family: Amiri;
+    src: url("../fonts/Amiri/Amiri-Regular.ttf");
+}
+/* font-family Lobster*/
+@font-face {
+    font-family: Lobster;
+    src: url("../fonts/Lobster/Lobster-Regular.ttf");
+}
+
